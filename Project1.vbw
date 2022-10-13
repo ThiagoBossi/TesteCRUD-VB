@@ -1,0 +1,7 @@
+frmInicio = -461, 67, 773, 702, , 26, 26, 1260, 660, C
+frmLogin = 0, 0, 1234, 634, , 52, 52, 1286, 686, C
+conexaoBanco = -403, 68, 831, 702, Z
+frmRealizarCadastro = 52, 52, 1286, 686, , 130, 130, 1364, 764, C
+frmListarCadastros = 104, 104, 876, 538, , 78, 78, 850, 512, C
+variaveisGlobais = 0, 0, 762, 426, 
+frmVisualizarCadastro = 26, 26, 722, 452, , 78, 78, 774, 504, C
